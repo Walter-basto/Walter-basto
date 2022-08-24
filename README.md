@@ -1,7 +1,7 @@
 ### You are welcome!
-### Walter Bastos Jorge Filho 💻
+### My name is Walter Bastos Jorge Filho 💻
 
-- 🧑‍🎓Student Information Techonology Management
-- 😄 Pronouns:He/His
+###     🧑‍🎓Student Information Techonology Management
+###    😄 Pronouns:He/His
 
-![ Walter-Bastos GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![ Walter-Bastos GitHub stats](https://github-readme-stats.vercel.app/api?username=Walter-basto&show_icons=true&theme=radical)
