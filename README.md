@@ -6,7 +6,11 @@
 ###     😄   Pronouns:He/His
 
 ![ Walter-Basto GitHub stats](https://github-readme-stats.vercel.app/api?username=Walter-basto&show_icons=true&theme=radical)
-    
+ 
+ <div style="display: inline_block">
+ <img align="center" alt="Cc" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</div><br/>
+ 
 </div>
   <br>
   <a href="https://www.instagram.com/walterbastos2022/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
