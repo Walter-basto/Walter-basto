@@ -1,7 +1,7 @@
 ### You are welcome!
 ### My name is Walter Bastos Jorge Filho
 
-###     🏖️  Rio De Janeiro- Brazil 
+###     🏖️  Rio De Janeiro- Brazil 🌎
 ###     🧑‍ 💻🎓Student Information Techonology Management
 ###     😄   Pronouns:He/His
 
