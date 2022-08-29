@@ -4,7 +4,7 @@
 ###     🧑‍ 💻🎓Student Information Techonology Management
 ###     😄   Pronouns:He/His
 
-![ Walter-Basto GitHub stats](https://github-readme-stats.vercel.app/api?username=Walter-basto&show_icons=true&theme=radical)
+![ Walter-Basto GitHub stats](https://github-readme-stats.vercel.app/api?username=Walter-basto&show_icons=true&theme=blue-green)
  
  <div style="display: inline_block">
  <img align="center" alt="Cc" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
