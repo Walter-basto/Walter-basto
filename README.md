@@ -1,7 +1,7 @@
 ### You are welcome!
 ### My name is Walter Bastos Jorge Filho
 ###     🏖️  Rio De Janeiro- Brazil ![image](https://user-images.githubusercontent.com/101215016/187215481-3746bf0f-f0bc-4c26-867f-bc580ed0f5c0.png)
-###     🧑‍ 💻🎓Student Information Techonology Management
+###     🧑‍ 💻🎓Student Information Technology  Management
 ###     😄   Pronouns:He/His
 
 ![ Walter-Basto GitHub stats](https://github-readme-stats.vercel.app/api?username=Walter-basto&show_icons=true&theme=blue-green)
