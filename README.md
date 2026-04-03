@@ -4,8 +4,7 @@
 ###     🧑‍ 💻 Formado em Gestão de Tecnologia da Informação
 
 
-![ Walter-Basto GitHub stats](https://github-readme-stats.vercel.app/api?username=Walter-basto&show_icons=true&theme=blue-green)
- 
+
  <div style="display: inline_block">
  
  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/>
